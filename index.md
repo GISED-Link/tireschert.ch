@@ -1,6 +1,7 @@
 <p style="text-align: center;"><img src="te_header.jpeg" alt="header"/></p>
 <!-- omit from toc -->
-# Bienvenue à la société de tir d'Eschert 300m
+Bienvenue à la société de tir d'Eschert 300m
+===
 
 Salut,
 
