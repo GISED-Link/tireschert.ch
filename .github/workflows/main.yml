@@ -4,6 +4,7 @@ jobs:
   create-index:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
       - name: Converts Markdown to HTML
         uses: jaywcjlove/markdown-to-html-cli@main
         with:
