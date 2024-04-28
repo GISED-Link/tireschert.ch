@@ -1,0 +1,10 @@
+name: create index.html
+on: [push]
+jobs:
+  create-index:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: jaywcjlove/markdown-to-html-cli@v4.1.0
+      - run: npm i markdown-to-html-cli -g
+      - run: markdown-to-html --output coverage/index.html
+      - run: markdown-to-html --source index.md --output coverage/index.html
