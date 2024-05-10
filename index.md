@@ -6,9 +6,10 @@ Salut,
 
 Tu trouveras des liens utiles juste ici:
 
+- [Tir en campagne - 24 au 26 mai 2024](#tir-en-campagne---24-au-26-mai-2024)
+- [Sortie du tir cantonale](#sortie-du-tir-cantonale)
 - [Portes ouvertes 2024](#portes-ouvertes-2024)
 - [Militaires / Tir obligatoire](#militaires--tir-obligatoire)
-- [Tir en campagne](#tir-en-campagne)
 - [Le lieu (où c'est que c'est le stand quoi)](#le-lieu-où-cest-que-cest-le-stand-quoi)
 - [Locations](#locations)
 - [Contact](#contact)
@@ -21,23 +22,37 @@ Liens externes à cette page:
 - [Tir obligatoire 2024 PDF](https://www.vtg.admin.ch/content/vtg-internet/fr/mein-militaerdienst/ausserhalb-des-dienstes/sat/schiesswesen-ausser-dienst/_jcr_content/infotabs/items/schiesspflicht/tabPar/downloadlist/downloadItems/261_1610952031454.download/27_124_f_2024.pdf)
 
 
+## Tir en campagne - 24 au 26 mai 2024
+Grande fête de tir au niveau national, le tir cantonal est célébré le même week-end dans toute la Suisse. Cette année, le tir en campagne a lieu le week-end du 24, 25 et 26 mai 2024. Beaucoup de stands sont ouvert à cette occasion. Mais c'est sans aucun doute à Eschert qu'il faut que tu viennes tirer cette année!
+
+Horaires de tir:
+Vendredi: 18h00 - 20h00
+Samedi: 17h00 - 19h00
+Dimanche: 9h00 - 11h30
+
+Restauration:
+Vendredi soir + samedi soir: Grillades
+Dimanche: Fondue vigneronne (25.- par personne, sur réservation → [Contact](#contact))
+
+[Haut de la page ↑](#bienvenue-à-la-société-de-tir-deschert-300m)
+
+## Sortie du tir cantonale
+Cette année, la société a décidée de participer au tir cantonal jurassien. Un programme d'activité est organisé par Céline, merci de regarder avec elle pour les différentes informations. Pour rappel, la société tirera au stand de Soyhières le samedi 6 juillet dans l'après-midi comme suit:
+
+```
+Cible  97: 17h00 - 19h00
+Cible  98: 13h30 - 18h00
+Cible 100: 16h30 - 18h45
+```
+
+La centrale se situe à la halle des fêtes de Boécourt. Chaque tireur doit faire contrôler son arme avant de pouvoir participer au tir. Le passage à la centrale est en principe compris dans les activités de la journée.
+
+[Haut de la page ↑](#bienvenue-à-la-société-de-tir-deschert-300m)
+
 ## Portes ouvertes 2024
-Cette année, nous avons le plaisir de t'accueillir dans notre stand pour vous partager notre passion du tir. Ça se déroule le samedi 20 avril, de 9h00 à 16h00. Toute personne est la bienvenue. Tu pourras t'y rendre en voiture, voir le lieu ici: [Le lieu](#le-lieu)
+Nous remercions chaque personne ayant participer à notre journée portes ouvertes. Ce fut un super moment qui a permis à de nombreuses personnes de découvrir la pratique du tir. Plus de 30 personnes ont pu s'essayer à faire des 10 à 300m et ce avec différentes armes.
 
-À savoir pour le tir:
-- Pas besoin d'arme, ni de licence, ni de connaissances particulières
-- Prend quand même une veste à longue manche et porte des pantalons longs
-- Nos membres se feront une joie de t'accompagner pendant cette journée
-  -  Avant le tir pour t'expliquer les bases et les règles de sécurité
-  -  pendant le tir pour t'aider à faire des mouches (des coups en plein milieu de la cible)
-  -  après le tir pour partager un verre avec toi
-- Pour ceux qui possède une arme d’ordonnance (uniquement Fass 90, Fass 57 ou Mousqueton 31), tu peux la prendre avec. S'il-te-plaît veille à faire le contrôle d'entrer au stand par un de nos moniteur de tir **avant** d'entrer dans le stand
-
-
-Repas de midi:
-- A midi sera servi le plat bernois. **Merci de t'inscrire à l'avance** afin d'avoir suffisamment de portion pour tout le monde. Inscription ici: [Contact](#contact)
-- Nous avons décidé de servir le menu au prix juste de 25 CHF. Le prix du menu comprend une participation de 5 CHF afin de soutenir les jeunes participant à la finale romande des jeunes tireurs qui qui a lieu cette année au stand de Malleray-Bévillard
-<p style="text-align: center;"><img src="te_flyer_po_200.png" alt="flyer portes ouvertes" width="400"/></p>
+La société considère de renouveler l'expérience l'an prochain. Plus d'informations en début d'année 2025.
 
 [Haut de la page ↑](#bienvenue-à-la-société-de-tir-deschert-300m)
 
@@ -47,11 +62,6 @@ Si tu es astreint au service, c'est avec joie que nous t’accueillons à notre 
 - Mercredi 28 avril, 17h00 - 19h30
 
 Et puis si t'es pas astreint, ben viens quand même les tirer :). Cette année, nous accueillons aussi le tir en campagne
-
-[Haut de la page ↑](#bienvenue-à-la-société-de-tir-deschert-300m)
-
-## Tir en campagne
-Grande fête de tir au niveau national, le tir cantonal est célébré le même week-end dans toute la suisse. Cette année, le tir en campagne a lieu le week-end du 24, 25 et 26 mai 2024. Beaucoup de stand sont ouvert à cette occasion. Mais c'est sans aucun doute à Eschert qu'il faut que tu viennes tirer cette année! Un repas sera servi le dimanche midi. Plus d'infos suivront ces prochains jours.
 
 [Haut de la page ↑](#bienvenue-à-la-société-de-tir-deschert-300m)
 
