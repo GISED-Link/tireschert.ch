@@ -3,6 +3,9 @@ on:
   push:
     paths:
       - 'index.md'
+
+  workflow_dispatch
+
 jobs:
   create-index:
     runs-on: ubuntu-latest
@@ -18,11 +21,11 @@ jobs:
         uses: jaywcjlove/markdown-to-html-cli@main
         with:
           source: index.md
-          output: output/index.html
+          output: ./output/index.html
           favicon: favicon.png
           markdown-style-theme: light
           dark-mode: false
-          corners: false
+          github-corners: false
       - name: Commit files
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
