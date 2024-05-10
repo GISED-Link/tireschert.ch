@@ -25,14 +25,18 @@ Liens externes à cette page:
 ## Tir en campagne - 24 au 26 mai 2024
 Grande fête de tir au niveau national, le tir cantonal est célébré le même week-end dans toute la Suisse. Cette année, le tir en campagne a lieu le week-end du 24, 25 et 26 mai 2024. Beaucoup de stands sont ouvert à cette occasion. Mais c'est sans aucun doute à Eschert qu'il faut que tu viennes tirer cette année!
 
+
 Horaires de tir:
+```
 Vendredi: 18h00 - 20h00
-Samedi: 17h00 - 19h00
-Dimanche: 9h00 - 11h30
+Samedi:   17h00 - 19h00
+Dimanche:  9h00 - 11h30
+```
 
 Restauration:
-Vendredi soir + samedi soir: Grillades
-Dimanche: Fondue vigneronne (25.- par personne, sur réservation → [Contact](#contact))
+- Vendredi soir + samedi soir: Grillades
+- Dimanche: Fondue vigneronne (25.- par personne, sur réservation → [Contact](#contact))
+
 
 [Haut de la page ↑](#bienvenue-à-la-société-de-tir-deschert-300m)
 
