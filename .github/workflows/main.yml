@@ -18,7 +18,7 @@ jobs:
         uses: jaywcjlove/markdown-to-html-cli@main
         with:
           source: index.md
-          output: output/index.html
+          output: ./output/index.html
           favicon: favicon.png
           markdown-style-theme: light
           dark-mode: false
