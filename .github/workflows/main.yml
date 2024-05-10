@@ -1,5 +1,8 @@
 name: create index.html
-on: [push]
+on: 
+  push:
+    paths:
+      - 'index.md'
 jobs:
   create-index:
     runs-on: ubuntu-latest
@@ -15,7 +18,7 @@ jobs:
         uses: jaywcjlove/markdown-to-html-cli@main
         with:
           source: index.md
-          output: index.html
+          output: output/index.html
           favicon: favicon.png
           markdown-style-theme: light
           dark-mode: false
@@ -30,3 +33,11 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           branch: ${{ github.head_ref }}
+
+      - name: Deploy FTP
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: tireschert.ch
+          username: pv3o93_gised_link  
+          password: ${{ secrets.ftp_password }}
+          local-dir: ./output/
