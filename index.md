@@ -48,7 +48,7 @@ Cible  97: 17h00 - 19h00
 Cible  98: 13h30 - 18h00
 Cible 100: 16h30 - 18h45
 ```
-
+ 
 La centrale se situe à la halle des fêtes de Boécourt. Chaque tireur doit faire contrôler son arme avant de pouvoir participer au tir. Le passage à la centrale est en principe compris dans les activités de la journée.
 
 [Haut de la page ↑](#bienvenue-à-la-société-de-tir-deschert-300m)
