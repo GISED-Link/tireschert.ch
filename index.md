@@ -62,10 +62,11 @@ La société considère de renouveler l'expérience l'an prochain. Plus d'inform
 
 ## Militaires / Tir obligatoire
 Si tu es astreint au service, c'est avec joie que nous t’accueillons à notre stand pour que tu accomplisses tes tirs obligatoires. Nos prochaines dates pour 2024:
-- Mercredi 24 avril, 17h00 - 19h30
-- Mercredi 28 avril, 17h00 - 19h30
 
-Et puis si t'es pas astreint, ben viens quand même les tirer :). Cette année, nous accueillons aussi le tir en campagne
+- Mercredi 24 avril, 17h00 - 19h30
+- Mercredi 28 août, 17h00 - 19h30
+
+Et puis si t'es pas astreint, ben viens quand même les tirer 😃. Cette année, nous accueillons aussi le tir en campagne.
 
 [Haut de la page ↑](#bienvenue-à-la-société-de-tir-deschert-300m)
 
@@ -84,10 +85,9 @@ Delémont ↓
 [Haut de la page ↑](#bienvenue-à-la-société-de-tir-deschert-300m)
 
 ## Locations
-Le stand est disponible à la location lorsque celui-ci n'est pas utilisé par les tireurs (nous) ou les chasseurs. Le stand possède une pièce principale pouvant accueillir jusqu'à 30 personnes. Une terrasse couverte avec cheminée est aussi à disposition et peux accueillir 40 personnes. Nous avons une cuisine équipée de plaques de cuissons, d'un four et d'un lave-vaisselle industrielle. Nous avons aussi 2 WC séparée pour dames et messieurs.
+Le stand est disponible à la location lorsque celui-ci n'est pas utilisé par les tireurs (nous) ou les chasseurs. Le stand possède une pièce principale pouvant accueillir jusqu'à 30 personnes. Une terrasse couverte avec cheminée est aussi à disposition et peut accueillir 40 personnes. Nous avons une cuisine équipée de plaques de cuissons, d'un four et d'un lave-vaisselle industriel. Nous avons aussi 2 WC séparés pour dames et messieurs.
 
-Les informations sur la disponibilité ainsi que les prix te seront volontiers communiquées en détail par Corinne Flückiger d'Eschert via téléphone au 079 445 92 47.
-
+Les informations sur la disponibilité ainsi que les prix te seront volontiers communiqués en détail par Corinne Flückiger d'Eschert via téléphone au 079 445 92 47.
 
 [Haut de la page ↑](#bienvenue-à-la-société-de-tir-deschert-300m)
 
