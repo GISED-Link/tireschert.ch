@@ -23,7 +23,7 @@ jobs:
           favicon: favicon.png
           markdown-style-theme: light
           dark-mode: false
-          github-corners: false
+          corners: false
       - name: Commit files
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
