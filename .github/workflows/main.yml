@@ -20,7 +20,7 @@ jobs:
         with:
           source: index.md
           output: ./output/index.html
-          favicon: favicon.png
+          favicon: favicon.ico
           markdown-style-theme: light
           dark-mode: false
           corners: false
