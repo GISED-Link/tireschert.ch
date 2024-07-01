@@ -6,6 +6,7 @@ Salut,
 
 Tu trouveras des liens utiles juste ici:
 
+- [Agenda](#agenda)
 - [Tir en campagne - 24 au 26 mai 2024](#tir-en-campagne---24-au-26-mai-2024)
 - [Sortie du tir cantonale](#sortie-du-tir-cantonale)
 - [Portes ouvertes 2024](#portes-ouvertes-2024)
@@ -21,6 +22,8 @@ Liens externes à cette page:
 - [Notice sur le tir hors du service en 2024 PDF](https://www.vtg.admin.ch/content/vtg-internet/fr/mein-militaerdienst/ausserhalb-des-dienstes/sat/schiesswesen-ausser-dienst/_jcr_content/infotabs/items/schiesspflicht/tabPar/downloadlist/downloadItems/13_1609320804927.download/27_123_f_2024.pdf)
 - [Tir obligatoire 2024 PDF](https://www.vtg.admin.ch/content/vtg-internet/fr/mein-militaerdienst/ausserhalb-des-dienstes/sat/schiesswesen-ausser-dienst/_jcr_content/infotabs/items/schiesspflicht/tabPar/downloadlist/downloadItems/261_1610952031454.download/27_124_f_2024.pdf)
 
+## Agenda
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Europe%2FZurich&bgcolor=%23F6BF26&showTabs=0&showCalendars=0&title=Occupation%20du%20Stand%20de%20tir%20Eschert&src=ZXNjaGVydC50aXJAZ21haWwuY29t&color=%23039BE5" style="border-width:0" width="600" height="400" frameborder="0" scrolling="no"></iframe>
 
 ## Tir en campagne - 24 au 26 mai 2024
 Nous tenons à remercier chaque personne qui a fait le déplacement au stand. Ce fut un week-end complètement fou où plus de 92 tireurs ont participé au tir en campagne. Notre société a battu son record d'affluence des 20 dernières années, et ceci grâce à vous. Je tiens aussi à remercier chacun qui a oeuvré à la réussite du week-end. Merci aux sociétés de Roches et Crémines-Corcelles pour leur travail ainsi qu'à chaque membre d'Eschert pour leur boulot 👍🏻
