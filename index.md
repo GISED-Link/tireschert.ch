@@ -92,7 +92,7 @@ Vergers Dedos 26
 roger.schluep@gmail.com
 ```
 
-Pour les location:
+Pour les locations:
 ```
 Corinne Flückiger
 079 445 92 47
