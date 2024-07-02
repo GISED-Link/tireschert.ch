@@ -1,4 +1,4 @@
-<p style="text-align: center;"><img src="te_header.jpeg" alt="header"/></p>
+<p style="text-align: center;"><img id="main_img" src="te_header.jpeg" alt="header"/></p>
 <!-- omit from toc -->
 <h1>Bienvenue à la société de tir d'Eschert 300m</h1>
 
@@ -23,7 +23,24 @@ Liens externes à cette page:
 - [Tir obligatoire 2024 PDF](https://www.vtg.admin.ch/content/vtg-internet/fr/mein-militaerdienst/ausserhalb-des-dienstes/sat/schiesswesen-ausser-dienst/_jcr_content/infotabs/items/schiesspflicht/tabPar/downloadlist/downloadItems/261_1610952031454.download/27_124_f_2024.pdf)
 
 ## Agenda
-<p style="text-align: center;"><iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Europe%2FZurich&bgcolor=%23F6BF26&showTabs=0&showCalendars=0&title=Occupation%20du%20Stand%20de%20tir%20Eschert&src=ZXNjaGVydC50aXJAZ21haWwuY29t&color=%23039BE5" style="border-width:0" width="600" height="400" frameborder="0" scrolling="no"></iframe></p>
+<p id="agenda"></p>
+
+<script>
+var myDoc = document.getElementById("agenda");
+var myMainImg = document.getElementById("main_img");
+
+var w = myMainImg.offsetWidth;
+
+const iframe_agenda = document.createElement('iframe');
+iframe_agenda.src = "https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Europe%2FZurich&bgcolor=%23F6BF26&showTabs=0&showCalendars=0&title=Occupation%20du%20Stand%20de%20tir%20Eschert&src=ZXNjaGVydC50aXJAZ21haWwuY29t&color=%23039BE5";
+iframe_agenda.style = "border-width:0";
+iframe_agenda.width= w;
+iframe_agenda.height=(3*w)/4;
+iframe_agenda.frameborder="0";
+iframe_agenda.scrolling="no";
+
+myDoc.appendChild(iframe_agenda);
+</script>
 
 ## Tir en campagne - 24 au 26 mai 2024
 Nous tenons à remercier chaque personne qui a fait le déplacement au stand. Ce fut un week-end complètement fou où plus de 92 tireurs ont participé au tir en campagne. Notre société a battu son record d'affluence des 20 dernières années, et ceci grâce à vous. Je tiens aussi à remercier chacun qui a oeuvré à la réussite du week-end. Merci aux sociétés de Roches et Crémines-Corcelles pour leur travail ainsi qu'à chaque membre d'Eschert pour leur boulot 👍🏻
@@ -61,7 +78,25 @@ Et puis si t'es pas astreint, ben viens quand même les tirer 😃. Cette année
 [Haut de la page ↑](#bienvenue-à-la-société-de-tir-deschert-300m)
 
 ## Le lieu (où c'est que c'est le stand quoi)
-<p style="text-align: center;"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10827.652940093783!2d7.377267375557257!3d47.2769505967108!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4791de60d8456f51%3A0xb32602153ef1e4f7!2sPr%C3%A9%20Beuclair%201%2C%202743%20Eschert!5e0!3m2!1sfr!2sch!4v1712697380799!5m2!1sfr!2sch" width="600" height="200" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p>
+<p id="map"></p>
+
+<script>
+var myDoc = document.getElementById("map");
+var myMainImg = document.getElementById("main_img");
+
+var w = myMainImg.offsetWidth;
+
+const iframe_map = document.createElement('iframe');
+iframe_map.src = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10827.652940093783!2d7.377267375557257!3d47.2769505967108!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4791de60d8456f51%3A0xb32602153ef1e4f7!2sPr%C3%A9%20Beuclair%201%2C%202743%20Eschert!5e0!3m2!1sfr!2sch!4v1712697380799!5m2!1sfr!2sch";
+iframe_map.width= w;
+iframe_map.height=(w)/2;
+iframe_map.style="border:0;";
+iframe_map.allowfullscreen="";
+iframe_map.loading="lazy";
+iframe_map.referrerpolicy="no-referrer-when-downgrade";
+
+myDoc.appendChild(iframe_map);
+</script>
 
 Et pour ceux qui aime les schémas, voici une vue de situation:
 ```
