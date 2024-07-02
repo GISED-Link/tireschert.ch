@@ -91,7 +91,7 @@ class MarkdownStyle extends HTMLElement {
 }
 customElements.define('markdown-style', MarkdownStyle);</script><markdown-style style="max-width: 960px; margin: 0 auto 60px auto; padding: 8px;" class="markdown-style" mode="light">
     <p style="text-align: center;">
-      <img src="te_header.jpeg" alt="header">
+      <img id="main_img" src="te_header.jpeg" alt="header">
     </p><!-- omit from toc -->
     <h1 id="bienvenue-à-la-société-de-tir-deschert-300m"><a class="anchor" aria-hidden="true" tabindex="-1" href="#bienvenue-à-la-société-de-tir-deschert-300m"><span class="octicon octicon-link"></span></a>Bienvenue à la société de tir d'Eschert 300m</h1>
     <p>Salut,</p>
@@ -115,9 +115,23 @@ customElements.define('markdown-style', MarkdownStyle);</script><markdown-style 
       <li><a href="https://www.vtg.admin.ch/content/vtg-internet/fr/mein-militaerdienst/ausserhalb-des-dienstes/sat/schiesswesen-ausser-dienst/_jcr_content/infotabs/items/schiesspflicht/tabPar/downloadlist/downloadItems/261_1610952031454.download/27_124_f_2024.pdf">Tir obligatoire 2024 PDF</a></li>
     </ul>
     <h2 id="agenda"><a class="anchor" aria-hidden="true" tabindex="-1" href="#agenda"><span class="octicon octicon-link"></span></a>Agenda</h2>
-    <p style="text-align: center;">
-      <iframe src="https://calendar.google.com/calendar/embed?height=600&#x26;wkst=2&#x26;ctz=Europe%2FZurich&#x26;bgcolor=%23F6BF26&#x26;showTabs=0&#x26;showCalendars=0&#x26;title=Occupation%20du%20Stand%20de%20tir%20Eschert&#x26;src=ZXNjaGVydC50aXJAZ21haWwuY29t&#x26;color=%23039BE5" style="border-width:0" width="600" height="400" frameborder="0" scrolling="no"></iframe>
-    </p>
+    <p id="agenda"></p>
+    <script>
+var myDoc = document.getElementById("agenda");
+var myMainImg = document.getElementById("main_img");
+
+var w = myMainImg.offsetWidth;
+
+const iframe_agenda = document.createElement('iframe');
+iframe_agenda.src = "https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Europe%2FZurich&bgcolor=%23F6BF26&showTabs=0&showCalendars=0&title=Occupation%20du%20Stand%20de%20tir%20Eschert&src=ZXNjaGVydC50aXJAZ21haWwuY29t&color=%23039BE5";
+iframe_agenda.style = "border-width:0";
+iframe_agenda.width= w;
+iframe_agenda.height=(3*w)/4;
+iframe_agenda.frameborder="0";
+iframe_agenda.scrolling="no";
+
+myDoc.appendChild(iframe_agenda);
+</script>
     <h2 id="tir-en-campagne---24-au-26-mai-2024"><a class="anchor" aria-hidden="true" tabindex="-1" href="#tir-en-campagne---24-au-26-mai-2024"><span class="octicon octicon-link"></span></a>Tir en campagne - 24 au 26 mai 2024</h2>
     <p>Nous tenons à remercier chaque personne qui a fait le déplacement au stand. Ce fut un week-end complètement fou où plus de 92 tireurs ont participé au tir en campagne. Notre société a battu son record d'affluence des 20 dernières années, et ceci grâce à vous. Je tiens aussi à remercier chacun qui a oeuvré à la réussite du week-end. Merci aux sociétés de Roches et Crémines-Corcelles pour leur travail ainsi qu'à chaque membre d'Eschert pour leur boulot 👍🏻</p>
     <p><a href="#bienvenue-%C3%A0-la-soci%C3%A9t%C3%A9-de-tir-deschert-300m">Haut de la page ↑</a></p>
@@ -145,9 +159,24 @@ Cible 100: 16h30 - 18h45
     <p>Et puis si t'es pas astreint, ben viens quand même les tirer 😃. Cette année, nous accueillons aussi le tir en campagne.</p>
     <p><a href="#bienvenue-%C3%A0-la-soci%C3%A9t%C3%A9-de-tir-deschert-300m">Haut de la page ↑</a></p>
     <h2 id="le-lieu-où-cest-que-cest-le-stand-quoi"><a class="anchor" aria-hidden="true" tabindex="-1" href="#le-lieu-où-cest-que-cest-le-stand-quoi"><span class="octicon octicon-link"></span></a>Le lieu (où c'est que c'est le stand quoi)</h2>
-    <p style="text-align: center;">
-      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10827.652940093783!2d7.377267375557257!3d47.2769505967108!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4791de60d8456f51%3A0xb32602153ef1e4f7!2sPr%C3%A9%20Beuclair%201%2C%202743%20Eschert!5e0!3m2!1sfr!2sch!4v1712697380799!5m2!1sfr!2sch" width="600" height="200" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-    </p>
+    <p id="map"></p>
+    <script>
+var myDoc = document.getElementById("map");
+var myMainImg = document.getElementById("main_img");
+
+var w = myMainImg.offsetWidth;
+
+const iframe_map = document.createElement('iframe');
+iframe_map.src = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10827.652940093783!2d7.377267375557257!3d47.2769505967108!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4791de60d8456f51%3A0xb32602153ef1e4f7!2sPr%C3%A9%20Beuclair%201%2C%202743%20Eschert!5e0!3m2!1sfr!2sch!4v1712697380799!5m2!1sfr!2sch";
+iframe_map.width= w;
+iframe_map.height=(w)/2;
+iframe_map.style="border:0;";
+iframe_map.allowfullscreen="";
+iframe_map.loading="lazy";
+iframe_map.referrerpolicy="no-referrer-when-downgrade";
+
+myDoc.appendChild(iframe_map);
+</script>
     <p>Et pour ceux qui aime les schémas, voici une vue de situation:</p>
     <pre><code class="code-highlight"><span class="code-line line-number" line="1">Delémont ↓
 </span><span class="code-line line-number" line="2">         ↓
