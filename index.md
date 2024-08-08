@@ -1,6 +1,6 @@
 <p style="text-align: center;"><img id="main_img" src="te_header.jpeg" alt="header"/></p>
 <!-- omit from toc -->
-<h1>Bienvenue à la société de tir d'Eschert 300m</h1>
+<h1 id="main_title">Bienvenue à la société de tir d'Eschert 300m</h1>
 
 Salut,
 
@@ -27,9 +27,9 @@ Liens externes à cette page:
 
 <script>
 var myDoc = document.getElementById("agenda");
-var myMainImg = document.getElementById("main_img");
+var myMainWidth = document.getElementById("main_title");
 
-var w = window.innerWidth * 0.95;
+var w = myMainWidth.offsetWidth;
 
 const iframe_agenda = document.createElement('iframe');
 iframe_agenda.src = "https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Europe%2FZurich&bgcolor=%23F6BF26&showTabs=0&showCalendars=0&title=Occupation%20du%20Stand%20de%20tir%20Eschert&src=ZXNjaGVydC50aXJAZ21haWwuY29t&color=%23039BE5";
@@ -82,9 +82,9 @@ Et puis si t'es pas astreint, ben viens quand même les tirer 😃. Cette année
 
 <script>
 var myDoc = document.getElementById("map");
-var myMainImg = document.getElementById("main_img");
+var myMainWidth = document.getElementById("main_title");
 
-var w = window.innerWidth * 0.95;
+var w = myMainWidth.offsetWidth;
 
 const iframe_map = document.createElement('iframe');
 iframe_map.src = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10827.652940093783!2d7.377267375557257!3d47.2769505967108!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4791de60d8456f51%3A0xb32602153ef1e4f7!2sPr%C3%A9%20Beuclair%201%2C%202743%20Eschert!5e0!3m2!1sfr!2sch!4v1712697380799!5m2!1sfr!2sch";
