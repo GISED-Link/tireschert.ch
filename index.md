@@ -117,7 +117,7 @@ Les informations sur la disponibilité ainsi que les prix te seront volontiers c
 [Haut de la page ↑](#bienvenue-à-la-société-de-tir-deschert-300m)
 
 ## Contact
-Pour toute questions sur la société, les tirs au stand, l'agenda, etc. c'est ici:
+Pour toutes questions sur la société, les tirs au stand, l'agenda, etc. c'est ici:
 ```
 Président tir 300m Eschert
 Roger Schluep
