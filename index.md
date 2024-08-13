@@ -121,7 +121,7 @@ Pour toutes questions sur la société, les tirs au stand, l'agenda, etc. c'est 
 ```
 Président tir 300m Eschert
 Roger Schluep
-Vergers Dedos 26
+Verger Dedos 26
 2747 Corcelles-BE
 076 250 20 95
 roger.schluep@gmail.com
