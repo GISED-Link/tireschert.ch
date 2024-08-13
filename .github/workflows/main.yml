@@ -36,6 +36,7 @@ jobs:
           branch: ${{ github.head_ref }}
 
       - name: Deploy FTP
+        if: success() || failure()
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
           server: tireschert.ch
