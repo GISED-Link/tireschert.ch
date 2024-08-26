@@ -7,6 +7,7 @@ Salut,
 Tu trouveras des liens utiles juste ici:
 
 - [Agenda](#agenda)
+- [Tir au porc 2024](#tir-au-porc-2024)
 - [Tir en campagne - 24 au 26 mai 2024](#tir-en-campagne---24-au-26-mai-2024)
 - [Sortie du tir cantonale](#sortie-du-tir-cantonale)
 - [Portes ouvertes 2024](#portes-ouvertes-2024)
@@ -41,6 +42,36 @@ iframe_agenda.scrolling="no";
 
 myDoc.appendChild(iframe_agenda);
 </script>
+
+## Tir au porc 2024
+
+La Société de Tir d'Eschert a le plaisir de vous inviter à participer au **Tir au Porc 2024** ! Cet événement est ouvert à tous, que vous soyez débutant ou tireur expérimenté.
+
+**Informations Clés**
+
+- **Dates :**
+  - Samedi 7 septembre 2024, 16h00 - 19h00
+  - Samedi 28 septembre 2024, 16h00 - 19h00
+  - Dimanche 29 septembre 2024,  9h00 - 12h00 / 14h00 - 17h00
+
+- **Type de tir :**
+  - Cible : A100
+  - Nombre de coups : Illimité
+  - Seuls les **6 meilleurs coups** seront pris en compte pour le classement final
+
+- **Repas du dimanche midi :**
+  - Un repas est prévu dimanche à midi.
+  - Merci de vous inscrire jusqu'au 23 septembre 2024
+
+**Venez nombreux !**
+
+Que vous veniez pour le challenge ou simplement pour passer un bon moment, nous vous attendons avec impatience. Ne manquez pas cette occasion de tester vos compétences et de vous mesurer à d'autres passionnés de tir.
+
+Pour toute information supplémentaire ou pour s'inscrire au diner, n'hésitez pas à [contacter](#contact) la Société de Tir d'Eschert.
+
+À bientôt sur le stand !
+
+[Haut de la page ↑](#bienvenue-à-la-société-de-tir-deschert-300m)
 
 ## Tir en campagne - 24 au 26 mai 2024
 Nous tenons à remercier chaque personne qui a fait le déplacement au stand. Ce fut un week-end complètement fou où plus de 92 tireurs ont participé au tir en campagne. Notre société a battu son record d'affluence des 20 dernières années, et ceci grâce à vous. Je tiens aussi à remercier chacun qui a oeuvré à la réussite du week-end. Merci aux sociétés de Roches et Crémines-Corcelles pour leur travail ainsi qu'à chaque membre d'Eschert pour leur boulot 👍🏻
