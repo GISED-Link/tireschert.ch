@@ -155,7 +155,7 @@ Roger Schluep
 Verger Dedos 26
 2747 Corcelles-BE
 076 250 20 95
-roger.schluep@gmail.com
+info@tireschert.ch
 ```
 
 Pour les locations:
