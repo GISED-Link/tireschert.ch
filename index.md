@@ -129,7 +129,7 @@ iframe_map.referrerpolicy="no-referrer-when-downgrade";
 myDoc.appendChild(iframe_map);
 </script>
 
-Et pour ceux qui aime les schémas, voici une vue de situation:
+Et pour ceux qui aiment les schémas, voici une vue de situation:
 ```
 Delémont ↓
          ↓
