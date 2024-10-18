@@ -7,7 +7,7 @@ Salut,
 Tu trouveras des liens utiles juste ici:
 
 - [Agenda](#agenda)
-- [Tir au porc 2024](#tir-au-porc-2024)
+- [Tir au porc 2024 - classement](#tir-au-porc-2024---classement)
 - [Tir en campagne - 24 au 26 mai 2024](#tir-en-campagne---24-au-26-mai-2024)
 - [Sortie du tir cantonale](#sortie-du-tir-cantonale)
 - [Portes ouvertes 2024](#portes-ouvertes-2024)
@@ -43,33 +43,44 @@ iframe_agenda.scrolling="no";
 myDoc.appendChild(iframe_agenda);
 </script>
 
-## Tir au porc 2024
+## Tir au porc 2024 - classement
 
-La Société de Tir d'Eschert a le plaisir de vous inviter à participer au **Tir au Porc 2024** ! Cet événement est ouvert à tous, que vous soyez débutant ou tireur expérimenté.
-
-**Informations Clés**
-
-- **Dates :**
-  - Samedi 7 septembre 2024, 16h00 - 19h00
-  - Samedi 28 septembre 2024, 16h00 - 19h00
-  - Dimanche 29 septembre 2024,  9h00 - 12h00 / 14h00 - 17h00
-
-- **Type de tir :**
-  - Cible : A100
-  - Nombre de coups : Illimité
-  - Seuls les **6 meilleurs coups** seront pris en compte pour le classement final
-
-- **Repas du dimanche midi :**
-  - Un repas est prévu dimanche à midi.
-  - Merci de vous inscrire jusqu'au 23 septembre 2024
-
-**Venez nombreux !**
-
-Que vous veniez pour le challenge ou simplement pour passer un bon moment, nous vous attendons avec impatience. Ne manquez pas cette occasion de tester vos compétences et de vous mesurer à d'autres passionnés de tir.
-
-Pour toute information supplémentaire ou pour s'inscrire au diner, n'hésitez pas à [contacter](#contact) la Société de Tir d'Eschert.
-
-À bientôt sur le stand !
+| **Rg** | **Nom** | **Total** |  | **C1** | **C2** | **C3** | **C4** | **C5** | **C6** |
+|:---:|---|:---:|---|:---:|:---:|:---:|:---:|:---:|:---:|
+| 1 | Correia Salgado Ricardo | 595 |  | 100 | 100 | 99 | 99 | 99 | 98 |
+| 2 | Zanin Albino | 593 |  | 100 | 100 | 99 | 99 | 98 | 97 |
+| 3 | Leuenberg Thierry | 587 |  | 100 | 100 | 97 | 97 | 97 | 96 |
+| 4 | Béguelin David | 587 |  | 100 | 99 | 97 | 97 | 97 | 97 |
+| 5 | Schwab Henri | 581 |  | 100 | 98 | 97 | 97 | 95 | 94 |
+| 6 | Grossenbacher Nicolas | 577 |  | 98 | 97 | 97 | 95 | 95 | 95 |
+| 7 | Flückiger Didier | 576 |  | 100 | 98 | 96 | 95 | 94 | 93 |
+| 8 | Muster Christophe | 573 |  | 100 | 100 | 96 | 94 | 93 | 90 |
+| 9 | Minder Laurent | 572 |  | 100 | 98 | 96 | 95 | 92 | 91 |
+| 10 | Jäggi Jonas | 569 |  | 98 | 98 | 97 | 94 | 92 | 90 |
+| 11 | Leuenberg Sandra | 564 |  | 98 | 96 | 95 | 92 | 92 | 91 |
+| 12 | Leuenberger Michel | 562 |  | 99 | 97 | 93 | 92 | 91 | 90 |
+| 13 | Schluep Roger | 562 |  | 96 | 95 | 95 | 94 | 92 | 90 |
+| 14 | Leuenberger Gilbert | 559 |  | 97 | 95 | 93 | 93 | 92 | 89 |
+| 15 | Schwab Thierry | 558 |  | 95 | 94 | 93 | 93 | 92 | 91 |
+| 16 | Comment Fernand | 555 |  | 97 | 93 | 93 | 92 | 90 | 90 |
+| 17 | Szabo Marika | 550 |  | 94 | 93 | 93 | 91 | 90 | 89 |
+| 18 | Fluckiger Sandrine | 547 |  | 98 | 93 | 92 | 91 | 89 | 84 |
+| 19 | Minder Marc  | 545 |  | 100 | 95 | 92 | 89 | 87 | 82 |
+| 20 | Minder Daniel | 537 |  | 91 | 91 | 90 | 90 | 88 | 87 |
+| 21 | Leuenberger Vanessa | 531 |  | 98 | 96 | 91 | 89 | 79 | 78 |
+| 22 | Minder Rémy | 530 |  | 98 | 90 | 88 | 87 | 84 | 83 |
+| 23 | Forster Maïk | 530 |  | 97 | 94 | 90 | 84 | 83 | 82 |
+| 24 | Ganguin Christian | 522 |  | 93 | 91 | 88 | 85 | 84 | 81 |
+| 25 | Rieder Owen | 506 |  | 90 | 87 | 84 | 83 | 82 | 80 |
+| 26 | Rieder Léo | 500 |  | 93 | 86 | 84 | 81 | 80 | 76 |
+| 27 | Paulus Pascal | 492 |  | 97 | 94 | 78 | 78 | 75 | 70 |
+| 28 | Leuenberg Roman | 483 |  | 95 | 92 | 85 | 76 | 68 | 67 |
+| 29 | Paulus Francine | 473 |  | 92 | 87 | 78 | 76 | 73 | 67 |
+| 30 | Forster Robin | 462 |  | 88 | 79 | 78 | 77 | 74 | 66 |
+| 31 | Bachmann Aurélie | 458 |  | 82 | 81 | 76 | 74 | 73 | 72 |
+| 32 | Güttly Ivann | 434 |  | 95 | 86 | 84 | 63 | 57 | 49 |
+| 33 | Schwab Dylan | 410 |  | 81 | 75 | 68 | 66 | 62 | 58 |
+| 34 | Minder Hervé | 354 |  | 67 | 65 | 60 | 57 | 55 | 50 |
 
 [Haut de la page ↑](#bienvenue-à-la-société-de-tir-deschert-300m)
 
