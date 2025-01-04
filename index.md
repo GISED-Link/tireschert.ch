@@ -7,10 +7,10 @@ Salut,
 Tu trouveras des liens utiles juste ici:
 
 - [Agenda](#agenda)
+- [AG 2025](#ag-2025)
 - [Tir au porc 2024 - classement](#tir-au-porc-2024---classement)
-- [Tir en campagne - 24 au 26 mai 2024](#tir-en-campagne---24-au-26-mai-2024)
+- [Tir en campagne - 23 au 25 mai 2025](#tir-en-campagne---23-au-25-mai-2025)
 - [Sortie du tir cantonale](#sortie-du-tir-cantonale)
-- [Portes ouvertes 2024](#portes-ouvertes-2024)
 - [Militaires / Tir obligatoire](#militaires--tir-obligatoire)
 - [Le lieu (où c'est que c'est le stand quoi)](#le-lieu-où-cest-que-cest-le-stand-quoi)
 - [Locations](#locations)
@@ -42,6 +42,15 @@ iframe_agenda.scrolling="no";
 
 myDoc.appendChild(iframe_agenda);
 </script>
+
+## AG 2025
+Chers membres,
+
+Nous avons le plaisir de vous inviter à l'Assemblée Générale de notre club de tir qui se tiendra le **samedi 15 février 2025 à 17h30**. Cet événement sera une occasion importante de faire le point sur l'année écoulée, de discuter des projets à venir et de prendre des décisions essentielles pour l'avenir de notre société.
+
+Le lieu exact ainsi que l'ordre du jour vous sera communiqué dans la convocation officielle. Nous comptons sur votre présence pour participer activement à la vie de notre club et contribuer à son développement.
+
+[Haut de la page ↑](#bienvenue-à-la-société-de-tir-deschert-300m)
 
 ## Tir au porc 2024 - classement
 
@@ -84,36 +93,18 @@ myDoc.appendChild(iframe_agenda);
 
 [Haut de la page ↑](#bienvenue-à-la-société-de-tir-deschert-300m)
 
-## Tir en campagne - 24 au 26 mai 2024
-Nous tenons à remercier chaque personne qui a fait le déplacement au stand. Ce fut un week-end complètement fou où plus de 92 tireurs ont participé au tir en campagne. Notre société a battu son record d'affluence des 20 dernières années, et ceci grâce à vous. Je tiens aussi à remercier chacun qui a oeuvré à la réussite du week-end. Merci aux sociétés de Roches et Crémines-Corcelles pour leur travail ainsi qu'à chaque membre d'Eschert pour leur boulot 👍🏻
+## Tir en campagne - 23 au 25 mai 2025
+Informations complémentaires selon Agneda 2025.
 
 [Haut de la page ↑](#bienvenue-à-la-société-de-tir-deschert-300m)
 
 ## Sortie du tir cantonale
-Cette année, la société a décidée de participer au tir cantonal jurassien. Un programme d'activité est organisé par Céline, merci de regarder avec elle pour les différentes informations. Pour rappel, la société tirera au stand de Soyhières le samedi 6 juillet dans l'après-midi comme suit:
-
-```
-Cible  97: 17h00 - 19h00
-Cible  98: 13h30 - 18h00
-Cible 100: 16h30 - 18h45
-```
- 
-La centrale se situe à la halle des fêtes de Boécourt. Chaque tireur doit faire contrôler son arme avant de pouvoir participer au tir. Le passage à la centrale est en principe compris dans les activités de la journée.
-
-[Haut de la page ↑](#bienvenue-à-la-société-de-tir-deschert-300m)
-
-## Portes ouvertes 2024
-Nous remercions chaque personne ayant participer à notre journée portes ouvertes. Ce fut un super moment qui a permis à de nombreuses personnes de découvrir la pratique du tir. Plus de 30 personnes ont pu s'essayer à faire des 10 à 300m et ce avec différentes armes.
-
-La société considère de renouveler l'expérience l'an prochain. Plus d'informations en début d'année 2025.
-
-[Haut de la page ↑](#bienvenue-à-la-société-de-tir-deschert-300m)
+Cette année, la société a décidée de participer au tir cantonal tessinois. Infos suivront.
 
 ## Militaires / Tir obligatoire
-Si tu es astreint au service, c'est avec joie que nous t’accueillons à notre stand pour que tu accomplisses tes tirs obligatoires. Nos prochaines dates pour 2024:
+Si tu es astreint au service, c'est avec joie que nous t’accueillons à notre stand pour que tu accomplisses tes tirs obligatoires. Nos prochaines dates pour 2025:
 
-- Mercredi 24 avril, 17h00 - 19h30
-- Mercredi 28 août, 17h00 - 19h30
+- Dates à définir, selon agenda
 
 Et puis si t'es pas astreint, ben viens quand même les tirer 😃. Cette année, nous accueillons aussi le tir en campagne.
 
