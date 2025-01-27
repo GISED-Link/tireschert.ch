@@ -65,7 +65,7 @@ Si tu désires faire tes tirs obligatoires ou t'entraîner, je te propose de ven
 - Vendredi 6 juin  2025, 16h30-19h30
 - Vendredi 4 juillet  2025, 16h30-19h30
 
-C'est la société de chasse du district de Moutier qui organise ces tirs. Une fois sur place, tu trouvera quelqu'un pour t'orienter.
+C'est la société des chasseurs du district de Moutier qui organise ces tirs. Une fois sur place, tu trouvera quelqu'un pour t'orienter.
 
 Merci de venir avec une <ins>**paire de pamir**</ins> (protection auditive). Merci aussi de respecter les règles de sécurité en vigueur sur la place de tir:
 
