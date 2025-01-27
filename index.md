@@ -8,6 +8,7 @@ Tu trouveras des liens utiles juste ici:
 
 - [Agenda](#agenda)
 - [AG 2025](#ag-2025)
+- [Tir de chasse](#tir-de-chasse)
 - [Tir au porc 2024 - classement](#tir-au-porc-2024---classement)
 - [Tir en campagne - 23 au 25 mai 2025](#tir-en-campagne---23-au-25-mai-2025)
 - [Sortie du tir cantonale](#sortie-du-tir-cantonale)
@@ -49,6 +50,33 @@ Chers membres,
 Nous avons le plaisir de vous inviter à l'Assemblée Générale de notre club de tir qui se tiendra le **samedi 15 février 2025 à 17h30**. Cet événement sera une occasion importante de faire le point sur l'année écoulée, de discuter des projets à venir et de prendre des décisions essentielles pour l'avenir de notre société.
 
 Le lieu exact ainsi que l'ordre du jour vous sera communiqué dans la convocation officielle. Nous comptons sur votre présence pour participer activement à la vie de notre club et contribuer à son développement.
+
+[Haut de la page ↑](#bienvenue-à-la-société-de-tir-deschert-300m)
+
+## Tir de chasse
+Salut,
+
+Tu es sur le site internet du tir à 300m. Si c'est la chasse ou le Ball-trap qui t'intéresse, voici quelques informations qui peuvent t'intéresser.
+
+Si tu désires faire tes tirs obligatoires ou t'entraîner, je te propose de venir au stand de tir d'Eschert aux dates suivantes:
+
+- Vendredi 4 avril 2025, 16h30-19h30
+- Vendredi  2 mai  2025, 16h30-19h30
+- Vendredi 6 juin  2025, 16h30-19h30
+- Vendredi 4 juillet  2025, 16h30-19h30
+
+C'est la société de chasse du district de Moutier qui organise ces tirs. Une fois sur place, tu trouvera quelqu'un pour t'orienter.
+
+Merci de venir avec une <ins>**paire de pamir**</ins> (protection auditive). Merci aussi de respecter les règles de sécurité en vigueur sur la place de tir:
+
+- Fusil de chasse (canon lisse): <ins>**Pas de sangle**</ins>, **fusil cassé**
+- Carabine: **Fusil cassé ou culasse ouverte et en position arrière**
+- Munition grenaille: **acier uniquement**
+
+De la grenaille est vendue sur place. Pour la carabine de chasse, prendre sa munition avec.
+
+Contact avec la société de chasse du district de moutier disponible ici:
+https://bernerjagd.net/fr/sections-et-societes-de-chasse-jura-seeland/
 
 [Haut de la page ↑](#bienvenue-à-la-société-de-tir-deschert-300m)
 
