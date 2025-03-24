@@ -7,22 +7,22 @@ Salut,
 Tu trouveras des liens utiles juste ici:
 
 - [Agenda](#agenda)
-- [AG 2025](#ag-2025)
 - [Tir de chasse](#tir-de-chasse)
 - [Tir au porc 2024 - classement](#tir-au-porc-2024---classement)
-- [Tir en campagne - 23 au 25 mai 2025](#tir-en-campagne---23-au-25-mai-2025)
 - [Sortie du tir cantonale](#sortie-du-tir-cantonale)
+- [Portes ouvertes 2025](#portes-ouvertes-2025)
 - [Militaires / Tir obligatoire](#militaires--tir-obligatoire)
+- [Tir en campagne - 23 au 25 mai 2025](#tir-en-campagne---23-au-25-mai-2025)
 - [Le lieu (où c'est que c'est le stand quoi)](#le-lieu-où-cest-que-cest-le-stand-quoi)
 - [Locations](#locations)
 - [Contact](#contact)
 
 Liens externes à cette page:
-- [Tir Eschert: Activités 2024](https://drive.google.com/file/d/1TSqa0SJHZ6F1xZWQyyu6ipLkP1rrel1Y/view?usp=drive_link)
+- [Tir Eschert: Activités 2025](https://drive.google.com/file/d/1sdOdHKQ93Igyuzr4lCD7u5Wd_PureVZe/view?usp=sharing)
 - [AJBST](https://ajbst.ch/)
 - [vtg.admin: Tir hors du service](https://www.vtg.admin.ch/fr/tir-hors-du-service)
-- [Notice sur le tir hors du service en 2024 PDF](https://www.vtg.admin.ch/content/vtg-internet/fr/mein-militaerdienst/ausserhalb-des-dienstes/sat/schiesswesen-ausser-dienst/_jcr_content/infotabs/items/schiesspflicht/tabPar/downloadlist/downloadItems/13_1609320804927.download/27_123_f_2024.pdf)
-- [Tir obligatoire 2024 PDF](https://www.vtg.admin.ch/content/vtg-internet/fr/mein-militaerdienst/ausserhalb-des-dienstes/sat/schiesswesen-ausser-dienst/_jcr_content/infotabs/items/schiesspflicht/tabPar/downloadlist/downloadItems/261_1610952031454.download/27_124_f_2024.pdf)
+- [Notice sur le tir hors du service en 2025 PDF](https://backend.vtg.admin.ch/fileservice/sdweb-docs-prod-vtgch-files/files/2024/12/30/b11f18c7-ffbb-4185-a570-b6c5da6215b3.pdf)
+- [Tir obligatoire 2025 PDF](https://backend.vtg.admin.ch/fileservice/sdweb-docs-prod-vtgch-files/files/2024/12/30/96cf5dbb-c519-40f7-b2df-c0be3c1a79b7.pdf)
 
 ## Agenda
 <p id="agenda"></p>
@@ -44,38 +44,19 @@ iframe_agenda.scrolling="no";
 myDoc.appendChild(iframe_agenda);
 </script>
 
-## AG 2025
-Chers membres,
-
-Nous avons le plaisir de vous inviter à l'Assemblée Générale de notre club de tir qui se tiendra le **samedi 15 février 2025 à 17h30**. Cet événement sera une occasion importante de faire le point sur l'année écoulée, de discuter des projets à venir et de prendre des décisions essentielles pour l'avenir de notre société.
-
-Le lieu exact ainsi que l'ordre du jour vous sera communiqué dans la convocation officielle. Nous comptons sur votre présence pour participer activement à la vie de notre club et contribuer à son développement.
-
-[Haut de la page ↑](#bienvenue-à-la-société-de-tir-deschert-300m)
-
 ## Tir de chasse
-Salut,
 
-Tu es sur le site internet du tir à 300m. Si c'est la chasse ou le Ball-trap qui t'intéresse, voici quelques informations qui peuvent t'intéresser.
+Tu es sur le site internet du tir à 300m. Si c'est la chasse ou le Ball-trap qui t'intéresse, merci de contacter directement:
 
-Si tu désires faire tes tirs obligatoires ou t'entraîner, je te propose de venir au stand de tir d'Eschert aux dates suivantes:
+```
+Schluep Fritz
+Grand rue 33a
+2608 Courtelary
+Tél. M : +41 76 547 72 18
+EMail: fritz.schluep@hotmail.fr
+```
 
-- Vendredi 4 avril 2025, 16h30-19h30
-- Vendredi  2 mai  2025, 16h30-19h30
-- Vendredi 6 juin  2025, 16h30-19h30
-- Vendredi 4 juillet  2025, 16h30-19h30
-
-C'est la société des chasseurs du district de Moutier qui organise ces tirs. Une fois sur place, tu trouvera quelqu'un pour t'orienter.
-
-Merci de venir avec une <ins>**paire de pamir**</ins> (protection auditive). Merci aussi de respecter les règles de sécurité en vigueur sur la place de tir:
-
-- Fusil de chasse (canon lisse): <ins>**Pas de sangle**</ins>, **fusil cassé**
-- Carabine: **Fusil cassé ou culasse ouverte et en position arrière**
-- Munition grenaille: **acier uniquement**
-
-De la grenaille est vendue sur place. Pour la carabine de chasse, prendre sa munition avec.
-
-Contact avec la société de chasse du district de moutier disponible ici:
+Autres contacts avec les sociétés de chasse du jura-bernois disponiblent ici:
 https://bernerjagd.net/fr/sections-et-societes-de-chasse-jura-seeland/
 
 [Haut de la page ↑](#bienvenue-à-la-société-de-tir-deschert-300m)
@@ -121,20 +102,49 @@ https://bernerjagd.net/fr/sections-et-societes-de-chasse-jura-seeland/
 
 [Haut de la page ↑](#bienvenue-à-la-société-de-tir-deschert-300m)
 
-## Tir en campagne - 23 au 25 mai 2025
-Informations complémentaires selon Agneda 2025.
+
+## Sortie du tir cantonale
+Nous participons au tir cantonal tessinois sur les cibles comme suit:
+
+```
+19.07.25 - Biasca
+Cible  16: 16h00 - 18h45
+```
+
+La centrale se situe à:
+```
+Festzentrum, Via Sarésc 1, 6760 Faido
+```
 
 [Haut de la page ↑](#bienvenue-à-la-société-de-tir-deschert-300m)
 
-## Sortie du tir cantonale
-Cette année, la société a décidée de participer au tir cantonal tessinois. Infos suivront.
+## Portes ouvertes 2025
+Nous ouvrons nos portes le samedi 10 mai 2025 de 9h00 à 16h00 à tous les tireurs motivé.e.s à venir essayer la pratique du tir.
+
+[Haut de la page ↑](#bienvenue-à-la-société-de-tir-deschert-300m)
 
 ## Militaires / Tir obligatoire
 Si tu es astreint au service, c'est avec joie que nous t’accueillons à notre stand pour que tu accomplisses tes tirs obligatoires. Nos prochaines dates pour 2025:
 
-- Dates à définir, selon agenda
+- Mercredi 30 avril, 17h00 - 19h30
+- Mercredi 27 août, 17h00 - 19h30
 
-Et puis si t'es pas astreint, ben viens quand même les tirer 😃. Cette année, nous accueillons aussi le tir en campagne.
+Et puis si t'es pas astreint, ben viens quand même les tirer 😃.
+
+[Haut de la page ↑](#bienvenue-à-la-société-de-tir-deschert-300m)
+
+## Tir en campagne - 23 au 25 mai 2025
+
+Cette année le tir aura lieu au stand de tir de **Crémines**.
+
+Horaires de tir:
+```
+Vendredi: 18h00 - 20h00
+Samedi:   17h00 - 19h00
+Dimanche:  9h00 - 11h30
+```
+
+Restauration sur place possible. Inscription au repas du dimanche midi chez Pierre-Alain Meyer.
 
 [Haut de la page ↑](#bienvenue-à-la-société-de-tir-deschert-300m)
 
