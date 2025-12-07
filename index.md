@@ -8,7 +8,7 @@ Tu trouveras des liens utiles juste ici:
 
 - [Agenda](#agenda)
 - [Tir de chasse](#tir-de-chasse)
-- [Tir au porc 2024 - classement](#tir-au-porc-2024---classement)
+- [Tir au porc 2025 - classement](#tir-au-porc-2025---classement)
 - [Sortie du tir cantonale](#sortie-du-tir-cantonale)
 - [Portes ouvertes 2025](#portes-ouvertes-2025)
 - [Militaires / Tir obligatoire](#militaires--tir-obligatoire)
@@ -61,44 +61,51 @@ https://bernerjagd.net/fr/sections-et-societes-de-chasse-jura-seeland/
 
 [Haut de la page ↑](#bienvenue-à-la-société-de-tir-deschert-300m)
 
-## Tir au porc 2024 - classement
+## Tir au porc 2025 - classement
 
 | **Rg** | **Nom** | **Total** |  | **C1** | **C2** | **C3** | **C4** | **C5** | **C6** |
-|:---:|---|:---:|---|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 | Correia Salgado Ricardo | 595 |  | 100 | 100 | 99 | 99 | 99 | 98 |
-| 2 | Zanin Albino | 593 |  | 100 | 100 | 99 | 99 | 98 | 97 |
-| 3 | Leuenberg Thierry | 587 |  | 100 | 100 | 97 | 97 | 97 | 96 |
-| 4 | Béguelin David | 587 |  | 100 | 99 | 97 | 97 | 97 | 97 |
-| 5 | Schwab Henri | 581 |  | 100 | 98 | 97 | 97 | 95 | 94 |
-| 6 | Grossenbacher Nicolas | 577 |  | 98 | 97 | 97 | 95 | 95 | 95 |
-| 7 | Flückiger Didier | 576 |  | 100 | 98 | 96 | 95 | 94 | 93 |
-| 8 | Muster Christophe | 574 |  | 100 | 100 | 96 | 94 | 93 | 91 |
-| 9 | Minder Laurent | 572 |  | 100 | 98 | 96 | 95 | 92 | 91 |
-| 10 | Jäggi Jonas | 569 |  | 98 | 98 | 97 | 94 | 92 | 90 |
-| 11 | Leuenberg Sandra | 564 |  | 98 | 96 | 95 | 92 | 92 | 91 |
-| 12 | Leuenberger Michel | 562 |  | 99 | 97 | 93 | 92 | 91 | 90 |
-| 13 | Schluep Roger | 562 |  | 96 | 95 | 95 | 94 | 92 | 90 |
-| 14 | Leuenberger Gilbert | 559 |  | 97 | 95 | 93 | 93 | 92 | 89 |
-| 15 | Comment Fernand | 555 |  | 97 | 93 | 93 | 92 | 90 | 90 |
-| 16 | Schwab Thierry | 555 |  | 95 | 94 | 93 | 92 | 91 | 90 |
-| 17 | Szabo Marika | 550 |  | 94 | 93 | 93 | 91 | 90 | 89 |
-| 18 | Fluckiger Sandrine | 547 |  | 98 | 93 | 92 | 91 | 89 | 84 |
-| 19 | Minder Marc | 545 |  | 100 | 95 | 92 | 89 | 87 | 82 |
-| 20 | Minder Daniel | 537 |  | 91 | 91 | 90 | 90 | 88 | 87 |
-| 21 | Leuenberger Vanessa | 531 |  | 98 | 96 | 91 | 89 | 79 | 78 |
-| 22 | Forster Maïk | 530 |  | 97 | 94 | 90 | 84 | 83 | 82 |
-| 23 | Minder Rémy | 527 |  | 98 | 90 | 88 | 87 | 83 | 81 |
-| 24 | Ganguin Christian | 522 |  | 93 | 91 | 88 | 85 | 84 | 81 |
-| 25 | Schwab Dylan | 509 |  | 92 | 92 | 91 | 81 | 78 | 75 |
-| 26 | Rieder Owen | 506 |  | 90 | 87 | 84 | 83 | 82 | 80 |
-| 27 | Rieder Léo | 500 |  | 93 | 86 | 84 | 81 | 80 | 76 |
-| 28 | Paulus Pascal | 492 |  | 97 | 94 | 78 | 78 | 75 | 70 |
-| 29 | Leuenberg Roman | 483 |  | 95 | 92 | 85 | 76 | 68 | 67 |
-| 30 | Paulus Francine | 473 |  | 92 | 87 | 78 | 76 | 73 | 67 |
-| 31 | Forster Robin | 468 |  | 88 | 79 | 78 | 77 | 74 | 72 |
-| 32 | Bachmann Aurélie | 458 |  | 82 | 81 | 76 | 74 | 73 | 72 |
-| 33 | Güttly Ivann | 434 |  | 95 | 86 | 84 | 63 | 57 | 49 |
-| 34 | Minder Hervé | 354 |  | 67 | 65 | 60 | 57 | 55 | 50 |
+|:---:|---|:---:|---|:---:|:---:|:---:|:---:|:---:|:---:| 
+| 1 | Bon Steven | 587 |  | 100 | 98 | 98 | 98 | 97 | 96 |
+| 2 | Béguelin David | 586 |  | 99 | 99 | 97 | 97 | 97 | 97 |
+| 3 | Correia Salgado Ricardo | 586 |  | 99 | 98 | 98 | 97 | 97 | 97 |
+| 4 | Aschwanden Didier | 584 |  | 100 | 100 | 97 | 97 | 96 | 94 |
+| 5 | Leuenberg Thierry | 582 |  | 99 | 98 | 97 | 96 | 96 | 96 |
+| 6 | Schluep Roger | 582 |  | 99 | 98 | 98 | 96 | 96 | 95 |
+| 7 | Schwab Henri | 580 |  | 99 | 98 | 97 | 97 | 96 | 93 |
+| 8 | Beck Samanta | 575 |  | 98 | 98 | 97 | 97 | 94 | 91 |
+| 9 | Flückiger Didier | 574 |  | 99 | 97 | 96 | 95 | 94 | 93 |
+| 10 | Grossenbacher Nicolas | 570 |  | 98 | 96 | 95 | 94 | 94 | 93 |
+| 11 | Comment Fernand | 569 |  | 100 | 97 | 96 | 93 | 92 | 91 |
+| 12 | Muster Christophe | 569 |  | 99 | 95 | 95 | 94 | 93 | 93 |
+| 13 | Leuenberger Gilbert | 568 |  | 99 | 95 | 94 | 94 | 93 | 93 |
+| 14 | Stucki Pierre-Alexandre | 567 |  | 96 | 95 | 95 | 94 | 94 | 93 |
+| 15 | Jäggi Jonas | 566 |  | 100 | 99 | 96 | 91 | 90 | 90 |
+| 16 | Maia Luis | 566 |  | 98 | 97 | 96 | 92 | 92 | 91 |
+| 17 | Minder Daniel | 564 |  | 100 | 93 | 93 | 93 | 93 | 92 |
+| 18 | Röthlisberger Céline | 563 |  | 97 | 96 | 95 | 95 | 90 | 90 |
+| 19 | Bon Yannick | 561 |  | 98 | 98 | 94 | 91 | 90 | 90 |
+| 20 | Minder Laurent | 559 |  | 99 | 97 | 97 | 90 | 88 | 88 |
+| 21 | Leuenberg Sandra | 553 |  | 98 | 94 | 92 | 91 | 91 | 87 |
+| 22 | Pascal Paulus | 549 |  | 99 | 93 | 92 | 89 | 88 | 88 |
+| 23 | Forster Robin | 547 |  | 100 | 99 | 89 | 88 | 86 | 85 |
+| 24 | Cerf Yvan | 547 |  | 96 | 92 | 90 | 90 | 90 | 89 |
+| 25 | Szabo Marika | 545 |  | 97 | 96 | 94 | 88 | 86 | 84 |
+| 26 | Zanin Albino | 543 |  | 96 | 94 | 92 | 92 | 86 | 83 |
+| 27 | Leuenberger Michel | 540 |  | 99 | 96 | 90 | 86 | 85 | 84 |
+| 28 | Schaub Jason | 538 |  | 95 | 92 | 90 | 87 | 87 | 87 |
+| 29 | Membrez Victor | 534 |  | 98 | 95 | 88 | 87 | 84 | 82 |
+| 30 | Pugnant-Gros Gaël | 529 |  | 98 | 92 | 88 | 88 | 82 | 81 |
+| 31 | Minder Rémy | 528 |  | 95 | 90 | 89 | 89 | 83 | 82 |
+| 32 | Forster Maïk | 527 |  | 92 | 89 | 88 | 88 | 86 | 84 |
+| 33 | Chèvre Cécile | 523 |  | 89 | 88 | 88 | 87 | 86 | 85 |
+| 34 | Ganguin Mathieu | 516 |  | 92 | 88 | 88 | 84 | 82 | 82 |
+| 35 | Aschwanden Raphael | 499 |  | 87 | 85 | 83 | 83 | 81 | 80 |
+| 36 | Minder Hervé | 495 |  | 94 | 92 | 84 | 78 | 74 | 73 |
+| 37 | Henriques Patricio | 457 |  | 92 | 91 | 77 | 73 | 65 | 59 |
+| 38 | Minder Marc | 424 |  | 94 | 83 | 73 | 63 | 56 | 55 |
+| 39 | Moreira Gilberto | 328 |  | 76 | 61 | 59 | 51 | 44 | 37 |
+| 40 | Brêchet Kim | 183 |  | 51 | 45 | 41 | 33 | 13 | 0 |
+
 
 [Haut de la page ↑](#bienvenue-à-la-société-de-tir-deschert-300m)
 
