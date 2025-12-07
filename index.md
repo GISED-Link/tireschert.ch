@@ -8,6 +8,7 @@ Tu trouveras des liens utiles juste ici:
 
 - [Agenda](#agenda)
 - [Tir de chasse](#tir-de-chasse)
+- [Sortie au Tir Fédéral – 3 au 5 juillet 2026](#sortie-au-tir-fédéral--3-au-5-juillet-2026)
 - [Tir au porc 2025 - classement](#tir-au-porc-2025---classement)
 - [Sortie du tir cantonale](#sortie-du-tir-cantonale)
 - [Portes ouvertes 2025](#portes-ouvertes-2025)
@@ -58,6 +59,18 @@ EMail: fritz.schluep@hotmail.fr
 
 Autres contacts avec les sociétés de chasse du jura-bernois disponiblent ici:
 https://bernerjagd.net/fr/sections-et-societes-de-chasse-jura-seeland/
+
+[Haut de la page ↑](#bienvenue-à-la-société-de-tir-deschert-300m)
+
+## Sortie au Tir Fédéral – 3 au 5 juillet 2026
+
+Nous avons le plaisir de vous annoncer que la sortie au tir fédéral se déroulera **du 3 au 5 juillet 2026**, dans le magnifique canton des **Grisons**, en Suisse.
+
+Nous serons **une vingtaine de participants** et nous logerons au **Lindelhof à Churwalden**.  
+Pour plus d’informations, vous pouvez consulter leur site : [Lindenhof – Churwalden](https://www.lindenhofchurwalden.ch/)
+
+Préparez-vous à trois jours de sport, de détente et de convivialité dans un cadre alpin splendide.  
+Nous comptons sur vous pour partager cette belle expérience ensemble !
 
 [Haut de la page ↑](#bienvenue-à-la-société-de-tir-deschert-300m)
 
