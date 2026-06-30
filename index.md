@@ -10,20 +10,16 @@ Tu trouveras des liens utiles juste ici:
 - [Tir de chasse](#tir-de-chasse)
 - [Sortie au Tir Fédéral – 3 au 5 juillet 2026](#sortie-au-tir-fédéral--3-au-5-juillet-2026)
 - [Tir au porc 2025 - classement](#tir-au-porc-2025---classement)
-- [Sortie du tir cantonale](#sortie-du-tir-cantonale)
-- [Portes ouvertes 2025](#portes-ouvertes-2025)
 - [Militaires / Tir obligatoire](#militaires--tir-obligatoire)
-- [Tir en campagne - 23 au 25 mai 2025](#tir-en-campagne---23-au-25-mai-2025)
+- [Tir en campagne - 29 au 31 mai 2026](#tir-en-campagne---29-au-31-mai-2026)
 - [Le lieu (où c'est que c'est le stand quoi)](#le-lieu-où-cest-que-cest-le-stand-quoi)
 - [Locations](#locations)
 - [Contact](#contact)
 
 Liens externes à cette page:
-- [Tir Eschert: Activités 2025](https://drive.google.com/file/d/1sdOdHKQ93Igyuzr4lCD7u5Wd_PureVZe/view?usp=sharing)
+- [Tir Eschert: Activités 2026](https://drive.google.com/file/d/1GpM8nn5yMs1DfIaqHa1BnwcV39hDYC-l/view?usp=sharing)
 - [AJBST](https://ajbst.ch/)
 - [vtg.admin: Tir hors du service](https://www.vtg.admin.ch/fr/tir-hors-du-service)
-- [Notice sur le tir hors du service en 2025 PDF](https://backend.vtg.admin.ch/fileservice/sdweb-docs-prod-vtgch-files/files/2024/12/30/b11f18c7-ffbb-4185-a570-b6c5da6215b3.pdf)
-- [Tir obligatoire 2025 PDF](https://backend.vtg.admin.ch/fileservice/sdweb-docs-prod-vtgch-files/files/2024/12/30/96cf5dbb-c519-40f7-b2df-c0be3c1a79b7.pdf)
 
 ## Agenda
 <p id="agenda"></p>
@@ -123,39 +119,19 @@ Nous comptons sur vous pour partager cette belle expérience ensemble !
 [Haut de la page ↑](#bienvenue-à-la-société-de-tir-deschert-300m)
 
 
-## Sortie du tir cantonale
-Nous participons au tir cantonal tessinois sur les cibles comme suit:
-
-```
-19.07.25 - Biasca
-Cible  16: 16h00 - 18h45
-```
-
-La centrale se situe à:
-```
-Festzentrum, Via Sarésc 1, 6760 Faido
-```
-
-[Haut de la page ↑](#bienvenue-à-la-société-de-tir-deschert-300m)
-
-## Portes ouvertes 2025
-Nous ouvrons nos portes le samedi 10 mai 2025 de 9h00 à 16h00 à tous les tireurs motivé.e.s à venir essayer la pratique du tir.
-
-[Haut de la page ↑](#bienvenue-à-la-société-de-tir-deschert-300m)
-
 ## Militaires / Tir obligatoire
-Si tu es astreint au service, c'est avec joie que nous t’accueillons à notre stand pour que tu accomplisses tes tirs obligatoires. Nos prochaines dates pour 2025:
+Si tu es astreint au service, c'est avec joie que nous t’accueillons à notre stand pour que tu accomplisses tes tirs obligatoires. Nos prochaines dates pour 2026:
 
-- Mercredi 30 avril, 17h00 - 19h30
-- Mercredi 27 août, 17h00 - 19h30
+- Mercredi 29 avril, 17h00 - 19h30
+- Mercredi 26 août, 17h00 - 19h30
 
 Et puis si t'es pas astreint, ben viens quand même les tirer 😃.
 
 [Haut de la page ↑](#bienvenue-à-la-société-de-tir-deschert-300m)
 
-## Tir en campagne - 23 au 25 mai 2025
+## Tir en campagne - 29 au 31 mai 2026
 
-Cette année le tir aura lieu au stand de tir de **Crémines**.
+Cette année le tir aura lieu au stand de tir de **Roches**.
 
 Horaires de tir:
 ```
