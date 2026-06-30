@@ -27,7 +27,7 @@ jobs:
             index.md \
             --standalone \
             --output=output/index.html \
-            --metadata title="Home"
+            --css katex.min.css
 
       - name: Upload HTML artifact
         uses: actions/upload-artifact@v6
