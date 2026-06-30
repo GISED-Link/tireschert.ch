@@ -117,9 +117,7 @@ Nous comptons sur vous pour partager cette belle expérience ensemble !
 | 39 | Moreira Gilberto | 328 |  | 76 | 61 | 59 | 51 | 44 | 37 |
 | 40 | Brêchet Kim | 183 |  | 51 | 45 | 41 | 33 | 13 | 0 |
 
-
 [Haut de la page ↑](#bienvenue-à-la-société-de-tir-deschert-300m)
-
 
 ## Militaires / Tir obligatoire
 Si tu es astreint au service, c'est avec joie que nous t’accueillons à notre stand pour que tu accomplisses tes tirs obligatoires. Nos prochaines dates pour 2026:
