@@ -21,13 +21,15 @@ jobs:
       - name: Create output directory
         run: mkdir -p output
 
-      - name: Convert Markdown to HTML
-        run: |
-          pandoc \
-            index.md \
-            --standalone \
-            --output=output/index.html \
-            --css katex.min.css
+      - name: Converts Markdown to HTML
+        uses: jaywcjlove/markdown-to-html-cli@main
+        with:
+          source: index.md
+          output: ./output/index.html
+          favicon: favicon.ico
+          markdown-style-theme: light
+          dark-mode: false
+          corners: false
 
       - name: Upload HTML artifact
         uses: actions/upload-artifact@v6
