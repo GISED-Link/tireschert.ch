@@ -1,21 +1,18 @@
 name: create index.html
-on: 
+
+on:
   push:
     paths:
-      - 'index.md'
+      - "index.md"
 
 jobs:
   create-index:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-      pull-requests: write
+
     steps:
       - uses: actions/checkout@v4
-        with:
-          persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal access token.
-          fetch-depth: 0 # otherwise, there would be errors pushing refs to the destination repository.
-      - name: Converts Markdown to HTML
+
+      - name: Convert Markdown to HTML
         uses: jaywcjlove/markdown-to-html-cli@main
         with:
           source: index.md
@@ -24,22 +21,28 @@ jobs:
           markdown-style-theme: light
           dark-mode: false
           corners: false
-      - name: Commit files
-        run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git add ./output/*
-          git commit -m "html generated"
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          branch: ${{ github.head_ref }}
 
-      - name: Deploy FTP
-        if: success() || failure()
+      - name: Upload HTML artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: website
+          path: ./output/
+
+  deploy:
+    needs: create-index
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Download HTML artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: website
+          path: ./output/
+
+      - name: Deploy via FTP
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
           server: tireschert.ch
-          username: pv3o93_gised_link  
+          username: pv3o93_gised_link
           password: ${{ secrets.ftp_password }}
           local-dir: ./output/
