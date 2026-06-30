@@ -30,7 +30,7 @@ jobs:
             --metadata title="Home"
 
       - name: Upload HTML artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v6
         with:
           name: website
           path: output/
@@ -41,7 +41,7 @@ jobs:
 
     steps:
       - name: Download HTML artifact
-        uses: actions/download-artifact@v5
+        uses: actions/download-artifact@v6
         with:
           name: website
           path: output/
