@@ -10,23 +10,30 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+      - name: Install Pandoc
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc
+
+      - name: Create output directory
+        run: mkdir -p output
 
       - name: Convert Markdown to HTML
-        uses: jaywcjlove/markdown-to-html-cli@main
-        with:
-          source: index.md
-          output: ./output/index.html
-          favicon: favicon.ico
-          markdown-style-theme: light
-          dark-mode: false
-          corners: false
+        run: |
+          pandoc \
+            index.md \
+            --standalone \
+            --output=output/index.html \
+            --metadata title="Home"
 
       - name: Upload HTML artifact
         uses: actions/upload-artifact@v4
         with:
           name: website
-          path: ./output/
+          path: output/
 
   deploy:
     needs: create-index
@@ -34,10 +41,10 @@ jobs:
 
     steps:
       - name: Download HTML artifact
-        uses: actions/download-artifact@v4
+        uses: actions/download-artifact@v5
         with:
           name: website
-          path: ./output/
+          path: output/
 
       - name: Deploy via FTP
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
@@ -45,4 +52,4 @@ jobs:
           server: tireschert.ch
           username: pv3o93_gised_link
           password: ${{ secrets.ftp_password }}
-          local-dir: ./output/
+          local-dir: output/
