@@ -120,6 +120,7 @@ Nous comptons sur vous pour partager cette belle expérience ensemble !
 
 [Haut de la page ↑](#bienvenue-à-la-société-de-tir-deschert-300m)
 
+
 ## Militaires / Tir obligatoire
 Si tu es astreint au service, c'est avec joie que nous t’accueillons à notre stand pour que tu accomplisses tes tirs obligatoires. Nos prochaines dates pour 2026:
 
