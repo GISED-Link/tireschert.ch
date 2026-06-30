@@ -62,6 +62,8 @@ https://bernerjagd.net/fr/sections-et-societes-de-chasse-jura-seeland/
 
 Nous avons le plaisir de vous annoncer que la sortie au tir fédéral se déroulera **du 3 au 5 juillet 2026**, dans le magnifique canton des **Grisons**, en Suisse.
 
+Planing complet dispo [ici](https://drive.google.com/file/d/1FfPTJ7smgRATAhYEDsfo_86ebzy0XdUB/view?usp=sharing)
+
 Nous serons **une vingtaine de participants** et nous logerons au **Lindelhof à Churwalden**.  
 Pour plus d’informations, vous pouvez consulter leur site : [Lindenhof – Churwalden](https://www.lindenhofchurwalden.ch/)
 
